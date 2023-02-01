@@ -46,7 +46,6 @@ A software engineering team-generator command line application. The application 
 
 ## Installation
 
-
 ``` 
 Run 'npm install' to install dependencies
 
