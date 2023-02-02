@@ -46,19 +46,16 @@ A software engineering team-generator command line application. The application 
 
 ## Installation
 
-``` 
 Run 'npm install' to install dependencies
 
 Run 'node index.js' to run program
 
 Open the 'team.html' file from the output folder in a web browser to view
 
----
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
----
 
 ## Contributing
 
@@ -72,7 +69,18 @@ Here are the steps needed for doing that:
 
 Following a code review, your feature will be merged.
 
----
+## Screenshots
+<img width="1436" alt="Screen Shot 2023-02-02 at 22 40 21 pm" src="https://user-images.githubusercontent.com/113915529/216318154-15b6c844-10b1-4141-b947-c19a8f001e73.png">
+
+
+
+
+
+
+
+
+
+
 
 ## Tests:
 
@@ -85,6 +93,17 @@ Following a code review, your feature will be merged.
 
 
     npm run test
+    
+    <img width="584" alt="Screen Shot 2023-02-02 at 22 40 54 pm" src="https://user-images.githubusercontent.com/113915529/216318266-06835f27-5802-4179-98d7-d06482783ebb.png">
+    
+    
+    <img width="716" alt="Screen Shot 2023-02-02 at 22 41 24 pm" src="https://user-images.githubusercontent.com/113915529/216318302-a5d4554e-1266-4a49-9f1b-550a7b56242c.png">
+
+    
+    
+
+    
+    
 
 ---
 
