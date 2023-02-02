@@ -94,10 +94,23 @@ Following a code review, your feature will be merged.
 
     npm run test
     
+    
     <img width="584" alt="Screen Shot 2023-02-02 at 22 40 54 pm" src="https://user-images.githubusercontent.com/113915529/216318266-06835f27-5802-4179-98d7-d06482783ebb.png">
     
     
+    
+    
+    
     <img width="716" alt="Screen Shot 2023-02-02 at 22 41 24 pm" src="https://user-images.githubusercontent.com/113915529/216318302-a5d4554e-1266-4a49-9f1b-550a7b56242c.png">
+
+
+
+
+## Demo
+
+
+![Untitled_ Feb 2, 2023 10_45 PM](https://user-images.githubusercontent.com/113915529/216322912-938771d4-229f-470c-95f1-e7b36ac036d9.gif)
+
 
     
     
