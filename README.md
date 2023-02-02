@@ -90,19 +90,16 @@ Following a code review, your feature will be merged.
 3. Repeat
 
 🎗 Remember, you can run the tests at any time with:
+     
+     npm run test
+     
+ <img width="584" alt="Screen Shot 2023-02-02 at 22 40 54 pm" src="https://user-images.githubusercontent.com/113915529/216323748-178787ca-5edb-497f-94ad-3f2ca5590faa.png">
 
+ 
+    
+ <img width="716" alt="Screen Shot 2023-02-02 at 22 41 24 pm" src="https://user-images.githubusercontent.com/113915529/216323839-50c0b799-d835-429e-bf14-e35855b57f03.png">
 
-    npm run test
-    
-    
-    <img width="584" alt="Screen Shot 2023-02-02 at 22 40 54 pm" src="https://user-images.githubusercontent.com/113915529/216318266-06835f27-5802-4179-98d7-d06482783ebb.png">
-    
-    
-    
-    
-    
-    <img width="716" alt="Screen Shot 2023-02-02 at 22 41 24 pm" src="https://user-images.githubusercontent.com/113915529/216318302-a5d4554e-1266-4a49-9f1b-550a7b56242c.png">
-
+  
 
 
 
